@@ -13,7 +13,7 @@ An intelligent AI-powered photo gallery built with Flutter. This application all
 
 ## Backend
 
-This project is the frontend for the Cortex-AI Gallery. The backend is a separate project that handles the AI processing, media storage, and API. You can find the backend project here: [Cortex-Ai-Gallery-backend](https://github.com/Taher-awad/Cortex-Ai-Gallery-backend)
+This project is the frontend for the Cortex-AI Gallery. The backend is a separate project that handles the AI processing, media storage, and API. You can find the backend project here: [Cortex-Ai-Gallery-backend-public](https://github.com/Taher-awad/Cortex-Ai-Gallery-backend-public)
 
 ## Getting Started
 
@@ -23,13 +23,13 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 *   [Flutter SDK](https://flutter.dev/docs/get-started/install) (version >=3.2.0 <4.0.0)
 *   An editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
-*   A running instance of the [Cortex-Ai-Gallery-backend](https://github.com/Taher-awad/Cortex-Ai-Gallery-backend)
+*   A running instance of the [Cortex-Ai-Gallery-backend-public](https://github.com/Taher-awad/Cortex-Ai-Gallery-backend-public)
 
 ### Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Taher-awade/cortex-ai-gallery-frontend.git
+    git clone https://github.com/Taher-awad/Cortex-Ai-Gallery-frontend-public.git
     cd cortex-ai-gallery-frontend
     ```
 2.  **Set up the backend URL:**
